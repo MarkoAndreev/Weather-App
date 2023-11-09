@@ -4,7 +4,6 @@ var cityNameEl = document.getElementById("city-name");
 var searchCardEl = document.getElementById("search-box");
 
 var apiKey = "GlInm5aSMTSP0UAHNS9Eu4hbsdpHGcaK";
-var apiKey2 = "";
 
 function getWeather(city) {
   var apiUrl =
